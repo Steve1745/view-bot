@@ -2,7 +2,7 @@ import webbrowser
 import time
 
 # Your tiktok video URL
-url = "https://www.tiktok.com/@natrixofficiel/video/7204193932475944198"
+url = "https://www.instagram.com/reel/Cs5f2N6Od15/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA=="
 
 # Number of views you want
 num = 100
